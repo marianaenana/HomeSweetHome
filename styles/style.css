@@ -1,0 +1,62 @@
+h1 {
+	font-family: 'Roboto', sans-serif;
+	color: 006064;	
+	}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #00ACC1;
+	}
+li {
+	float: left;
+	}
+li a {
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 14px 78px;
+	text-decoration: none;
+	}
+li a:hover {
+	background-color: #00838F;
+	}
+body {
+	background-color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+	position: relative;
+	background: white;
+	height: 200px;
+	width: 60%;
+	margin: 0 auto;
+	padding: 20px;
+	resize: both;
+	overflow: auto;
+	}
+body map {
+	width: 50%;
+	height: 50%;
+	margin: -70px 0 0 -120px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	padding: 20px;
+	}
+div .calendario {
+	border-width: 0; 
+	width: 800px;
+	height: 700px;
+	}
+div {
+	font-family: 'Roboto', sans-serif;
+	}
+p {
+	font-family: helvetica;
+	font-size: 12px;
+	color: red;	
+	}
+iframe {
+	height: 400px;
+	width: 852px;
+	}
